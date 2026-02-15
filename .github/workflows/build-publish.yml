@@ -1,4 +1,4 @@
-name: Build and Publish Distroless blast
+name: Build and Publish blast
 
 on:
   push:

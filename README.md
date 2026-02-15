@@ -1,5 +1,5 @@
 # blast
-Small, distroless-when-possible container for `blast`.
+Small compatibility-focused container for `blast`.
 
 ## how to use
 ```bash
